@@ -74,43 +74,44 @@ with torch.no_grad():
 # Save single speaker audio
 save_audio_as_mp3(audio, hps.data.sampling_rate, "checkpoints/ss_synthesized_audio.mp3")
 
+
 # Multiple Speakers
-hps_ms = utils.get_hparams_from_file("./configs/vctk_base.json")
+# hps_ms = utils.get_hparams_from_file("./configs/vctk_base.json")
 
-net_g_ms = SynthesizerTrn(
-    len(symbols),
-    hps_ms.data.filter_length // 2 + 1,
-    hps_ms.train.segment_size // hps.data.hop_length,
-    n_speakers=hps_ms.data.n_speakers,
-    **hps_ms.model
-).to("cpu")
-_ = net_g.eval()
+# net_g_ms = SynthesizerTrn(
+#     len(symbols),
+#     hps_ms.data.filter_length // 2 + 1,
+#     hps_ms.train.segment_size // hps.data.hop_length,
+#     n_speakers=hps_ms.data.n_speakers,
+#     **hps_ms.model
+# ).to("cpu")
+# _ = net_g.eval()
 
-_ = utils.load_checkpoint("pretrained_vctk.pth", net_g_ms, None)
+# _ = utils.load_checkpoint("pretrained_vctk.pth", net_g_ms, None)
 
-sid = torch.LongTensor([4])  # speaker identity
-stn_tst = get_text(
-    "We propose VITS, Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech.",
-    hps_ms,
-)
+# sid = torch.LongTensor([4])  # speaker identity
+# stn_tst = get_text(
+#     "We propose VITS, Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech.",
+#     hps_ms,
+# )
 
-with torch.no_grad():
-    x_tst = stn_tst.unsqueeze(0)
-    x_tst_lengths = torch.LongTensor([stn_tst.size(0)])
-    audio = (
-        net_g_ms.infer(
-            x_tst,
-            x_tst_lengths,
-            sid=sid,
-            noise_scale=0.667,
-            noise_scale_w=0.8,
-            length_scale=1,
-        )[0][0, 0]
-        .data.float()
-        .numpy()
-    )
+# with torch.no_grad():
+#     x_tst = stn_tst.unsqueeze(0)
+#     x_tst_lengths = torch.LongTensor([stn_tst.size(0)])
+#     audio = (
+#         net_g_ms.infer(
+#             x_tst,
+#             x_tst_lengths,
+#             sid=sid,
+#             noise_scale=0.667,
+#             noise_scale_w=0.8,
+#             length_scale=1,
+#         )[0][0, 0]
+#         .data.float()
+#         .numpy()
+#     )
 
-# Save multiple speakers audio
-save_audio_as_mp3(
-    audio, hps_ms.data.sampling_rate, "checkpoints/ms_synthesized_audio.mp3"
-)
+# # Save multiple speakers audio
+# save_audio_as_mp3(
+#     audio, hps_ms.data.sampling_rate, "checkpoints/ms_synthesized_audio.mp3"
+# )
