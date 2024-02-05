@@ -57,11 +57,12 @@ wget -nc -P checkpoints https://huggingface.co/spaces/sayashi/vits-uma-genshin-h
 
 https://tuberipper.com/19/save/mp3
 
+https://github.com/ThaiLe1220/jaywalnut-vits
+
 python preprocess.py --filelists filelists/miyu_train.txt filelists/miyu_val.txt
 
 python preprocess.py --filelists filelists/obama_val.txt filelists/obama_val.txt
 
 python train_ms.py -c configs/config.json -m checkpoints
-
 
 python vits_inference.py

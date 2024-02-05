@@ -12,3 +12,8 @@ protobuf
 tqdm
 phonemizer
 espeak
+pip==21.3.1
+gradio
+eng_to_ipa
+inflect
+ 
