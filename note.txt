@@ -59,7 +59,7 @@ https://tuberipper.com/19/save/mp3
 
 https://github.com/ThaiLe1220/jaywalnut-vits
 
-python preprocess.py --filelists filelists/obama_val.txt filelists/obama_val.txt
+python preprocess.py --filelists filelists/obama_train.txt filelists/obama_val.txt
 
 python train_ms.py -c configs/config.json -m checkpoints
 
