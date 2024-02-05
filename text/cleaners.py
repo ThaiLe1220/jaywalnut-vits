@@ -1,5 +1,6 @@
 import re
-from text.japanese import japanese_to_romaji_with_accent
+
+# from text.japanese import japanese_to_romaji_with_accent
 from text.english import english_to_ipa2
 
 
