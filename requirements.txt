@@ -13,7 +13,6 @@ pyopenjtalk
 protobuf
 tqdm
 phonemizer
-espeak
 gradio
 eng_to_ipa
 inflect
