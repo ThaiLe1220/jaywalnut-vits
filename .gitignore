@@ -5,5 +5,4 @@ __pycache__
 
 build
 *.c
-monotonic_align/monotonic_align
 .DS_Store
