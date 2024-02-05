@@ -1,0 +1,67 @@
+https://colab.research.google.com/drive/1rfzCz8F2O6fhnjl2iS90h7lvPSqPKtTx?usp=sharing
+
+https://github.com/thanhnew2001/vits-finetuning
+
+brew install pyenv-virtualenv
+pyenv install 3.8
+pyenv virtualenv 3.8 vits-env
+exec "$SHELL"
+pyenv activate vits-env
+pip install -r requirements.txt
+
+pyenv deactivate vits-env
+
+
+sudo apt update
+sudo apt install -y make build-essential libssl-dev zlib1g-dev \
+libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm \
+libncurses5-dev libncursesw5-dev xz-utils tk-dev libffi-dev liblzma-dev python3-openssl git
+
+rm -rf /home/sset2/.pyenv
+curl https://pyenv.run | bash
+
+echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bashrc
+echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bashrc
+echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n  eval "$(pyenv init -)"\nfi' >> ~/.bashrc
+echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.bashrc
+
+exec "$SHELL"
+
+
+wget -nc https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+chmod +x Miniconda3-latest-MacOSX-x86_64.sh
+./Miniconda3-latest-MacOSX-x86_64.sh -b -f -p /Users/lehongthai/miniconda3
+
+/Users/lehongthai/miniconda3/bin/conda init
+source ~/.bash_profile
+
+# Install and update conda and python
+conda install --channel defaults conda python=3.8 --yes
+conda update --channel defaults --all --yes
+
+# Check conda and python paths and versions
+which conda
+conda --version
+which python
+python --version
+
+# Install pip and Python packages
+pip install pip==21.3.1
+pip install -r requirements.txt
+pip install gradio
+
+# Download model checkpoints (adjust the paths as needed)
+wget -nc -P checkpoints https://huggingface.co/spaces/sayashi/vits-uma-genshin-honkai/resolve/main/model/G_0.pth
+wget -nc -P checkpoints https://huggingface.co/spaces/sayashi/vits-uma-genshin-honkai/resolve/main/model/D_0.pth
+
+
+https://tuberipper.com/19/save/mp3
+
+python preprocess.py --filelists filelists/miyu_train.txt filelists/miyu_val.txt
+
+python preprocess.py --filelists filelists/obama_val.txt filelists/obama_val.txt
+
+python train_ms.py -c configs/config.json -m checkpoints
+
+
+python vits_inference.py
