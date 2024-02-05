@@ -9,7 +9,7 @@ audio/obama1_chunk_10.wav|nuclear proliferation.
 audio/obama1_chunk_11.wav|and pandemic defy national boundaries and easy solutions.  For many of you, these challenges are also felt  in more personal terms.  Perhaps you're still looking for a job.
 audio/obama1_chunk_12.wav|We're struggling to figure out what career path makes sense.  Now, in the face of these challenges,  it may be tempting to fall back on the formulas for success  that have been peddled so frequently in recent years.
 audio/obama1_chunk_13.wav|It goes something like this.  We too often let the external, the material things serve as indicators that we're doing well,  even though something inside us tells us that we're not doing our best.
-audio/obama1_chunk_14.wav|that we're avoiding that which is hard but also necessary,  that we're shrinking from, rather than rising to,  the challenges of the age.  And the thing is, in this new hyper-competitive age,  none of us, none of us,
+audio/obama1_chunk_14.wav|that we're avoiding that which is hard but also necessary,  that we're shrinking from, rather than rising to,  the challenges of the age.  And the thing is, in this new hyper competitive age,  none of us, none of us,
 audio/obama1_chunk_15.wav|can afford to be complacent.  That's true whatever profession you choose.  Professors.
 audio/obama1_chunk_16.wav|might earn the distinction of tenure, but that doesn't guarantee that they'll keep putting in the long hours and late nights  and have the passion and the drive to be great educators.
 audio/obama1_chunk_17.wav|The same principle is true in your personal life.  Being a parent is not just a matter of paying the bills,
@@ -26,7 +26,7 @@ audio/obama1_chunk_28.wav|You've shown more grit and determination in your child
 audio/obama1_chunk_29.wav|That's who you are.  We need everyone to broaden their ideas about what is possible.  We need parents, politicians, and the media to see how success is possible, how success  is happening every day.
 audio/obama1_chunk_30.wav|So that's why I came here today.  Because if success can happen here,
 audio/obama1_chunk_31.wav|You have everything you need to get started.  You've got no excuses.  You have no excuses not to change the world.  Did you study business?  Go start a company, or why not
-audio/obama1_chunk_32.wav|Help a struggling non-for-profit find better, more effective ways to serve folks in need.  You study nursing?  Understaffed clinics and hospitals across this country are desperate for your help.  You study education?  Teach in a high-need school.
+audio/obama1_chunk_32.wav|Help a struggling non for profit find better, more effective ways to serve folks in need.  You study nursing?  Understaffed clinics and hospitals across this country are desperate for your help.  You study education?  Teach in a high need school.
 audio/obama1_chunk_33.wav|Where the kids really need you, give a chance to kids who can't, who can't get everything they need, maybe in their neighborhood, maybe not even their home, but we can't afford to give up on them. Prepare them to compete.
 audio/obama1_chunk_34.wav|for any job anywhere in the world.  You study engineering? Help us lead a green revolution,  developing new sources of clean energy  that will power our economy and preserve our planet.
 audio/obama1_chunk_35.wav|Find somebody to be successful for.  Raise their hopes.  Rise to their needs.  That's what's made a difference in our lives  and it's gonna make an even greater difference
@@ -34,7 +34,7 @@ audio/obama1_chunk_36.wav|in your lives not just for your own success because we
 audio/obama1_chunk_37.wav|Your journey has just begun.  It won't protect you against every setback  or challenge or mistake.  You'll make some, I promise.  You're gonna have to keep working hard.  You're gonna have to keep pushing yourselves.  And you'll find yourselves sometime in situations where
 audio/obama1_chunk_38.wav|Folks, if they've had an easier time, they're a little bit ahead of you, and you're going  to have to work harder than them.  And you may be frustrated by that.
 audio/obama1_chunk_39.wav|You may have setbacks and you may have failures,  but you're not done, you're not even getting started.
-audio/obama1_chunk_40.wav|And if you ever forget that, just look to history.  Colonel Sanders didn't open up his first Kentucky Fried Chicken  until he was in his 60s.  Winston Churchill was dismissed as little more than a has-been  who enjoyed scotch a little bit too much.
+audio/obama1_chunk_40.wav|And if you ever forget that, just look to history.  Colonel Sanders didn't open up his first Kentucky Fried Chicken  until he was in his 60s.  Winston Churchill was dismissed as little more than a has been  who enjoyed scotch a little bit too much.
 audio/obama1_chunk_41.wav|before he took over as Prime Minister and saw Great Britain through its finest hour.  When you read a great story, or you learn about an important moment in history,
 audio/obama1_chunk_42.wav|It helps you imagine what it would be like to walk in somebody else's shoes.  To know their struggles.  Each of them, at one point in their life, didn't have any title or much status to speak of.  But they had passion.
 audio/obama1_chunk_43.wav|a commitment to following that passion wherever it would lead and to working hard every step  along the way but if you do push yourselves if you build on what you've already accomplished here  then i couldn't be more confident about your future
@@ -57,7 +57,7 @@ audio/obama2_chunk_13.wav|the constraints placed on them by international law.  
 audio/obama2_chunk_14.wav|The world is by many measures less violent and more prosperous than ever before.  And yet our societies are filled with uncertainty and unease.
 audio/obama2_chunk_15.wav|and strife.  Despite enormous progress, as people lose trust in  institutions, governing becomes more difficult,  and tensions between nations become more
 audio/obama2_chunk_16.wav|become more quick to surface.  And so I believe that at this moment,  we all face a choice.  We can choose to press forward with a better  model of cooperation and integration.
-audio/obama2_chunk_17.wav|Or we can retreat into a world sharply divided,  and ultimately in conflict, along age-old lines of nation  and tribe and race and religion.  I want to suggest to you today that
+audio/obama2_chunk_17.wav|Or we can retreat into a world sharply divided,  and ultimately in conflict, along age old lines of nation  and tribe and race and religion.  I want to suggest to you today that
 audio/obama2_chunk_18.wav|We must go forward and not backward.  I believe that as imperfect as they are, the principles of open  markets and accountable governance, of democracy and human rights
 audio/obama2_chunk_19.wav|and international law that we have forged
 audio/obama2_chunk_20.wav|remain the firmest foundation for human progress in this century.  I make this argument not based on theory or ideology,  but on facts, facts that all too often we forget
@@ -75,12 +75,12 @@ audio/obama2_chunk_32.wav|that the battlefields of Europe have been replaced  by
 audio/obama2_chunk_33.wav|the challenges we face, or to suggest complacency.  Rather, I believe that we need to acknowledge these  achievements in order to summon the confidence to  carry this progress forward.
 audio/obama2_chunk_34.wav|and to make sure that we do not abandon those very things that  have delivered this progress.  In order to move forward, though, we do have to acknowledge that
 audio/obama2_chunk_35.wav|The existing path to global integration requires a course  correction, because too often those trumpeting the benefits  of globalization have ignored inequality within and among  nations, have ignored the enduring appeal of ethnic
-audio/obama2_chunk_36.wav|and sectarian identities have left international institutions  ill-equipped, underfunded, under-resourced in order to  handle transnational challenges.  And as these real problems have been neglected,
+audio/obama2_chunk_36.wav|and sectarian identities have left international institutions  ill equipped, underfunded, under resourced in order to  handle transnational challenges.  And as these real problems have been neglected,
 audio/obama2_chunk_37.wav|Alternative visions of the world have pressed forward,  both in the wealthiest countries and in the poorest.  Religious fundamentalism, the politics of ethnicity,  or tribe, or sect.
 audio/obama2_chunk_38.wav|Aggressive nationalism.  A crude populism, sometimes from the far left,  but more often from the far right,  which seeks to restore what they believe was a better, simpler age
 audio/obama2_chunk_39.wav|free of outside contamination.  We cannot dismiss these visions.  They are powerful.  They reflect dissatisfaction.
 audio/obama2_chunk_41.wav|I do not believe those visions can deliver  security or prosperity over the long term.  But I do believe that these visions fail to recognize  at a very basic level our common humanity.
-audio/obama2_chunk_42.wav|Moreover, I believe that the acceleration of travel and  technology and telecommunications,  together with a global economy that depends on a global supply  chain, makes it self-defeating, ultimately,  for those who seek to reverse this progress.
+audio/obama2_chunk_42.wav|Moreover, I believe that the acceleration of travel and  technology and telecommunications,  together with a global economy that depends on a global supply  chain, makes it self defeating, ultimately,  for those who seek to reverse this progress.
 audio/obama2_chunk_43.wav|Today, a nation ringed by walls would only imprison itself.
 audio/obama2_chunk_44.wav|cannot be a simple rejection of global integration.  Instead, we must work together to make sure the benefits of  such integration are broadly shared,  and that the disruptions economic, political and cultural
 audio/obama2_chunk_45.wav|that are caused by integration are squarely addressed.  This is not the place for a detailed policy blueprint.
@@ -89,13 +89,13 @@ audio/obama2_chunk_47.wav|While open markets and capitalism have raised  standar
 audio/obama2_chunk_48.wav|Rapid progress in technology has also weakened the position  of workers and their ability to secure a decent wage.  And advanced economies like my own unions have been  undermined, and many manufacturing jobs have
 audio/obama2_chunk_49.wav|disappear.  Often, those who benefit most from globalization  have used their political power
 audio/obama2_chunk_50.wav|to further undermine the position of workers.  In developing countries, labor organizations have  often been suppressed.
-audio/obama2_chunk_51.wav|And the growth of the middle class has been held back by  corruption and underinvestment.  Mercantilist policies pursued by governments with  export-driven models threaten to undermine the  consensus that underpins global trade.
+audio/obama2_chunk_51.wav|And the growth of the middle class has been held back by  corruption and underinvestment.  Mercantilist policies pursued by governments with  export driven models threaten to undermine the  consensus that underpins global trade.
 audio/obama2_chunk_52.wav|And meanwhile, global capital is too often unaccountable.  Nearly $8 trillion stashed away in tax havens and a  shadow banking system that grows beyond the reach
 audio/obama2_chunk_53.wav|of effective oversight.  A world in which 1 percent of humanity controls as much  wealth as the other 99 percent,
 audio/obama2_chunk_54.wav|will never be stable.  I understand that the gaps between rich and poor are not  new, but just as the child in a slum today can see the  skyscraper nearby, technology now allows any person with a
 audio/obama2_chunk_55.wav|see how the most privileged among us live, and the  contrast between their own lives and others.  Expectations rise, then, faster than governments  can deliver, and a pervasive sense of injustice
 audio/obama2_chunk_56.wav|undermine people's faith in the system.  So how do we fix this imbalance?  We cannot unwind integration any more than we can stuff  technology back into a box.
-audio/obama2_chunk_57.wav|Nor can we look to failed models of the past.  If we start resorting to trade wars,  market-distorting subsidies, beggar-thy-neighbor policies,  an over-reliance on natural resources instead of innovation,
+audio/obama2_chunk_57.wav|Nor can we look to failed models of the past.  If we start resorting to trade wars,  market distorting subsidies, beggar thy neighbor policies,  an over reliance on natural resources instead of innovation,
 audio/obama2_chunk_58.wav|These approaches will make us poor collectively,  and they are more likely to lead to conflict.  And the stark contrast between, say,  the success of the Republic of Korea and the wasteland  of North Korea shows that central
 audio/obama2_chunk_59.wav|planned control of the economy is a dead end.  But I do believe there is another path,  one that fuels growth and innovation,  and offers the clearest route to individual opportunity  and national success.
 audio/obama2_chunk_60.wav|It does not require succumbing to a soulless  capitalism that benefits only the few, but rather  recognizes that economies are more successful when we  close the gap between rich and poor.
@@ -106,7 +106,7 @@ audio/obama2_chunk_64.wav|Last year, poverty in this country fell at the fastest
 audio/obama2_chunk_65.wav|So just as I've pursued these measures here at home,  so has the United States worked with many nations to  curb the excesses of capitalism.  Not to punish wealth, but to prevent repeated crises
 audio/obama2_chunk_66.wav|that can destroy it.  That's why we've worked with other nations to create  higher and clearer standards for banking and taxation.  Because a society that asks less of oligarchs than  ordinary citizens will rot from within.
 audio/obama2_chunk_67.wav|That's why we've pushed for transparency and cooperation  in rooting out corruption and tracking illicit dollars.  Because markets create more jobs when they're fueled by  hard work, and not the capacity to extort a bribe.
-audio/obama2_chunk_68.wav|That's why we've worked to reach trade agreements that raise labor standards and raise  environmental standards, as we've done with the Trans-Pacific Partnership, so that the
+audio/obama2_chunk_68.wav|That's why we've worked to reach trade agreements that raise labor standards and raise  environmental standards, as we've done with the Trans Pacific Partnership, so that the
 audio/obama2_chunk_69.wav|are more broadly shared.  And just as we benefit by combating inequality  within our countries, I believe advanced economies
 audio/obama2_chunk_70.wav|still need to do more to close the gap between rich  and poor nations around the globe.  This is difficult politically.  It's difficult to spend on foreign assistance.
 audio/obama2_chunk_71.wav|But I do not believe this is charity.  For the small fraction of what we spent at war in  Iraq, we could support institutions so that  fragile states don't collapse in the first place.
@@ -122,7 +122,7 @@ audio/obama2_chunk_80.wav|An order built not just through elections and represen
 audio/obama2_chunk_81.wav|still reject the model of free societies.  And perhaps those of us who have been promoting  democracy feel somewhat discouraged since the end  of the Cold War, because we've learned that
 audio/obama2_chunk_82.wav|Liberal democracy will not just wash across the globe  in a single wave.  It turns out building accountable institutions is  hard work, the work of generations.  The gains are often fragile, sometimes
 audio/obama2_chunk_83.wav|We take one step forward and then two steps back.  In countries held together by borders drawn by colonial  powers, with ethnic enclaves and tribal divisions, politics
-audio/obama2_chunk_84.wav|Elections can sometimes appear to be a zero-sum game.  And so, given the difficulty in forging true democracy in  the face of these pressures, it's no surprise that some  argue the future favors the strongman, a top-down model
+audio/obama2_chunk_84.wav|Elections can sometimes appear to be a zero sum game.  And so, given the difficulty in forging true democracy in  the face of these pressures, it's no surprise that some  argue the future favors the strongman, a top down model
 audio/obama2_chunk_85.wav|rather than strong, democratic institutions.  But I believe this thinking is wrong.  I believe the road of true democracy remains  the better path.
 audio/obama2_chunk_86.wav|I believe that in the 21st century,  economies can only grow to a certain point until they need  to open up, because entrepreneurs need  to access information in order to invent.  Young people need a global education.
 audio/obama2_chunk_87.wav|in order to thrive. Independent media needs to check the abuses of power.  Without this evolution, ultimately expectations of people will not be met. Suppression of
@@ -140,11 +140,11 @@ audio/obama2_chunk_98.wav|So those of us who believe in democracy, we need to  s
 audio/obama2_chunk_99.wav|It does mean a lot.
 audio/obama2_chunk_100.wav|that the cure for what ails our democracies is greater  engagement by our citizens, not less.  Yes, in America, there is too much money in politics.
 audio/obama2_chunk_101.wav|Too much entrenched partisanship.  Too little participation by citizens,  in part because of a patchwork of laws that
-audio/obama2_chunk_102.wav|makes it harder to vote.  In Europe, a well-intentioned Brussels  often became too isolated from the normal push and  pull of national politics.  Too often, in capitals,
-audio/obama2_chunk_103.wav|Decision-makers have forgotten that democracy  needs to be driven by civic engagement from the bottom up,  not governance by experts from the top down.  And so these are real problems.  And as leaders of democratic governments make the case for  democracy abroad,
+audio/obama2_chunk_102.wav|makes it harder to vote.  In Europe, a well intentioned Brussels  often became too isolated from the normal push and  pull of national politics.  Too often, in capitals,
+audio/obama2_chunk_103.wav|Decision makers have forgotten that democracy  needs to be driven by civic engagement from the bottom up,  not governance by experts from the top down.  And so these are real problems.  And as leaders of democratic governments make the case for  democracy abroad,
 audio/obama2_chunk_104.wav|We'd better strive harder to set a better example at home.  Moreover, every country will organize its government  informed by centuries of history and the circumstances  of geography and the deeply held beliefs of its people.
 audio/obama2_chunk_105.wav|So I recognize that traditional society may  value unity and cohesion more than a diverse country  like my own, which was founded upon what at the  time was a radical idea, the idea of the liberty of  individual human beings.
-audio/obama2_chunk_106.wav|endowed with certain God-given rights.  But that does not mean that ordinary people in Asia,  or Africa, or the Middle East somehow prefer arbitrary  rule that denies them a voice in the decisions that  can save their lives.
+audio/obama2_chunk_106.wav|endowed with certain God given rights.  But that does not mean that ordinary people in Asia,  or Africa, or the Middle East somehow prefer arbitrary  rule that denies them a voice in the decisions that  can save their lives.
 audio/obama2_chunk_107.wav|I believe that spirit is universal.  And if any of you doubt the universality of that desire,  listen to the voices of young people everywhere who call out  for freedom and dignity, and the opportunity to control
 audio/obama2_chunk_108.wav|lives. This leads me to the third thing we need to do. We must reject any forms of fundamentalism
 audio/obama2_chunk_109.wav|or racism, or a belief in ethnic superiority that  makes our traditional identities irreconcilable  with modernity.
@@ -178,7 +178,7 @@ audio/obama2_chunk_136.wav|rooted in the rights and responsibilities of nations.
 audio/obama2_chunk_137.wav|I know that for most of human history,  power has not been unipolar.  And the end of the Cold War may have led too many  to forget this truth.  I've noticed as President that,
 audio/obama2_chunk_138.wav|and that at times both America's adversaries and  some of our allies believe that all problems were
 audio/obama2_chunk_139.wav|by Washington or could be solved by Washington. And perhaps too many in Washington believe  that as well. But I believe America
-audio/obama2_chunk_140.wav|has been a rare superpower in human history,  insofar as it has been willing to think beyond  narrow self-interest.  That while we've made our share of mistakes over  these last 25 years,
+audio/obama2_chunk_140.wav|has been a rare superpower in human history,  insofar as it has been willing to think beyond  narrow self interest.  That while we've made our share of mistakes over  these last 25 years,
 audio/obama2_chunk_141.wav|And I've acknowledged some.  We have strived, sometimes at great sacrifice, to  align better our actions with our ideals.  And as a consequence, I believe we have been a  force for good.  We have secured allies.
 audio/obama2_chunk_143.wav|We have worked to roll back poverty and hunger and  disease beyond our borders, not just within our borders.  I'm proud of that.  But I also know that we can't
 audio/obama2_chunk_144.wav|do this alone.  And I believe that if we're to meet the challenges of  this century, we are all going to have to do more to  build up international capacity.
@@ -206,7 +206,7 @@ audio/obama2_chunk_165.wav|and the benefits of geography.
 audio/obama2_chunk_166.wav|They can do more to offer a hand.  Even if they also insist that refugees who come to  our countries have to do more to adopt to the  customs and conventions of the communities that are now
 audio/obama2_chunk_167.wav|providing them a home.  Let me conclude by saying that I recognize history tells a  different story than the one that I've talked about here today.
 audio/obama2_chunk_168.wav|There's a much darker and more cynical view of history  that we can adopt.  Human beings are too often motivated by greed  and by power.  Big countries.
-audio/obama2_chunk_169.wav|for most of history, have pushed smaller ones around.  Tribes and ethnic groups and nation-states have very  often found it most convenient to define  themselves by what they hate.
+audio/obama2_chunk_169.wav|for most of history, have pushed smaller ones around.  Tribes and ethnic groups and nation states have very  often found it most convenient to define  themselves by what they hate.
 audio/obama2_chunk_170.wav|and not just
 audio/obama2_chunk_171.wav|those ideas that bind them together.  Time and again, human beings have believed that  they've finally arrived at a period of enlightenment
 audio/obama2_chunk_172.wav|only to repeat then cycles of conflict and suffering.  Perhaps that's our fate.  We have to remember that the choices of individual human
