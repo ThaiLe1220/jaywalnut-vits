@@ -46,26 +46,27 @@ def save_audio_as_mp3(audio, sample_rate, file_name):
 
 
 # Single Speaker
-hps = utils.get_hparams_from_file("./configs/ljs_base.json")
+hps = utils.get_hparams_from_file("../drive/MyDrive/vits-finetune/ljs_base/config.json")
 
 net_g = SynthesizerTrn(
     len(symbols),
     hps.data.filter_length // 2 + 1,
     hps.train.segment_size // hps.data.hop_length,
     **hps.model
-).to("cpu")
+).cuda()
 _ = net_g.eval()
 
 _ = utils.load_checkpoint(
-    "../drive/MyDrive/vits-finetune/ljs_base/G_epoch_6000.pth", net_g, None
+    "../drive/MyDrive/vits-finetune/ljs_base/G_1000.pth", net_g, None
 )
 
 stn_tst = get_text(
     "My name is Barrack Obama and I am the president of the United State", hps
 )
+
 with torch.no_grad():
-    x_tst = stn_tst.unsqueeze(0).to("cpu")
-    x_tst_lengths = torch.LongTensor([stn_tst.size(0)]).to("cpu")
+    x_tst = stn_tst.cuda().unsqueeze(0)
+    x_tst_lengths = torch.LongTensor([stn_tst.size(0)]).cuda()
     audio = (
         net_g.infer(
             x_tst, x_tst_lengths, noise_scale=0.667, noise_scale_w=0.8, length_scale=1
@@ -76,34 +77,35 @@ with torch.no_grad():
     )
 
 # Save single speaker audio
-save_audio_as_mp3(audio, hps.data.sampling_rate, "checkpoints/ss_synthesized_audio.mp3")
-
-
-# Multiple Speakers
-# hps_ms = utils.get_hparams_from_file("./configs/vctk_base.json")
-
-# net_g_ms = SynthesizerTrn(
-#     len(symbols),
-#     hps_ms.data.filter_length // 2 + 1,
-#     hps_ms.train.segment_size // hps.data.hop_length,
-#     n_speakers=hps_ms.data.n_speakers,
-#     **hps_ms.model
-# ).to("cpu")
-# _ = net_g.eval()
-
-# _ = utils.load_checkpoint("pretrained_vctk.pth", net_g_ms, None)
-
-# sid = torch.LongTensor([4])  # speaker identity
-# stn_tst = get_text(
-#     "We propose VITS, Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech.",
-#     hps_ms,
+# save_audio_as_mp3(
+#     audio,
+#     hps.data.sampling_rate,
+#     "../drive/MyDrive/vits-finetune/single_speaker_synthesized_audio.mp3",
 # )
 
+# # Multiple Speakers
+# hps = utils.get_hparams_from_file("../drive/MyDrive/vits-finetune/vltk_base/config.json")
+
+# net_g = SynthesizerTrn(
+#     len(symbols),
+#     hps.data.filter_length // 2 + 1,
+#     hps.train.segment_size // hps.data.hop_length,
+#     n_speakers=hps.data.n_speakers,
+#     **hps.model
+# ).cuda()
+# _ = net_g.eval()
+
+# _ = utils.load_checkpoint(
+#     "../drive/MyDrive/vits-finetune/checkpoints/G_epoch_20000.pth", net_g, None
+# )
+
+# stn_tst = get_text("We have the best economy and government in history", hps)
 # with torch.no_grad():
-#     x_tst = stn_tst.unsqueeze(0)
-#     x_tst_lengths = torch.LongTensor([stn_tst.size(0)])
+#     x_tst = stn_tst.cuda().unsqueeze(0)
+#     x_tst_lengths = torch.LongTensor([stn_tst.size(0)]).cuda()
+#     sid = torch.LongTensor([10]).cuda()
 #     audio = (
-#         net_g_ms.infer(
+#         net_g.infer(
 #             x_tst,
 #             x_tst_lengths,
 #             sid=sid,
@@ -111,11 +113,14 @@ save_audio_as_mp3(audio, hps.data.sampling_rate, "checkpoints/ss_synthesized_aud
 #             noise_scale_w=0.8,
 #             length_scale=1,
 #         )[0][0, 0]
-#         .data.float()
+#         .data.cpu()
+#         .float()
 #         .numpy()
 #     )
 
 # # Save multiple speakers audio
 # save_audio_as_mp3(
-#     audio, hps_ms.data.sampling_rate, "checkpoints/ms_synthesized_audio.mp3"
+#     audio,
+#     hps.data.sampling_rate,
+#     "../drive/MyDrive/vits-finetune/multiple_speakers_synthesized_audio.mp3",
 # )
