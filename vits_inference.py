@@ -60,7 +60,9 @@ _ = utils.load_checkpoint(
     "../drive/MyDrive/vits-finetune/ljs_base/G_epoch_6000.pth", net_g, None
 )
 
-stn_tst = get_text("My name is Barrack Obama", hps)
+stn_tst = get_text(
+    "My name is Barrack Obama and I am the president of the United State", hps
+)
 with torch.no_grad():
     x_tst = stn_tst.unsqueeze(0).to("cpu")
     x_tst_lengths = torch.LongTensor([stn_tst.size(0)]).to("cpu")
