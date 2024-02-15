@@ -56,7 +56,9 @@ net_g = SynthesizerTrn(
 ).to("cpu")
 _ = net_g.eval()
 
-_ = utils.load_checkpoint("pretrained_ljs.pth", net_g, None)
+_ = utils.load_checkpoint(
+    "../drive/MyDrive/vits-finetune/ljs_base/G_epoch_6000.pth", net_g, None
+)
 
 stn_tst = get_text("My name is Barrack Obama", hps)
 with torch.no_grad():
